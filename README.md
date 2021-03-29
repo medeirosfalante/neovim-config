@@ -1,4 +1,4 @@
 # neovim-config
 
 
-# This is my vim config use in my workspace.
+This is my vim config use in my workspace.
