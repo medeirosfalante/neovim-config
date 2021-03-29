@@ -3,9 +3,9 @@
 
 This is my vim config use in my workspace.
 
+ You need copy file init.vim for ~/.config/neovim/init.vim
 
-
-#Install neovim 
+# Install neovim 
 
 ## macOS / OS X
 
