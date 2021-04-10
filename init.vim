@@ -9,6 +9,7 @@ Plug 'google/vim-glaive'
 Plug 'vim-airline/vim-airline'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tomlion/vim-solidity'
+Plug 'edersonferreira/dalton-vim'
 "Golang
     Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 
